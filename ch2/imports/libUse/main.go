@@ -2,10 +2,8 @@ package main
 
 import (
 	"fmt"
-
-	"goBook/ch2/myLib"
+	"goBook/ch2/imports/myLib"
 )
-
 
 func main() {
 	var start myTime.Time = 1.
