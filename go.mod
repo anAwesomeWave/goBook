@@ -1,4 +1,4 @@
-module go-book
+module goBook
 
 go 1.23.1
 
