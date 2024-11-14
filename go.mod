@@ -2,4 +2,4 @@ module goBook
 
 go 1.23.1
 
-require gopl.io v0.0.0-20211004154805-1ae3ec64947b // indirect
+require golang.org/x/tour v0.1.0
